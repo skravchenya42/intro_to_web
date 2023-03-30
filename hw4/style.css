@@ -1,0 +1,26 @@
+h1 {
+    color: rgb(98, 0, 255);
+}
+
+h2 {
+    color: rgb(45, 33, 146);
+}
+
+body {
+    background-color: #5465ff2d;
+}
+
+input[type="text"] {
+    font-family: inherit;
+    font-size: inherit;
+    line-height: inherit;
+    margin: 10;
+    border: 2px solid #ae00ff;
+    color: rgb(172, 36, 36);
+  }
+  
+button {
+    background-color: rgb(186, 149, 204);
+    color: black;
+    border: 2px solid #9905dd;
+}
