@@ -1,0 +1,28 @@
+h1 {
+    color: rgb(98, 0, 255);
+}
+
+h2 {
+    color: rgb(45, 33, 146);
+}
+
+h3 {
+    color: rgb(99, 18, 136);
+}
+
+body {
+    background-color: #5465ff2d;
+}
+
+a {
+    color: rgb(0, 110, 255);
+}
+
+a:hover {
+    color: rgb(172, 36, 36);
+}
+
+ul {
+    list-style-type: "\2665";
+    padding-left: 200px
+} 
