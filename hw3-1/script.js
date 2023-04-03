@@ -9,7 +9,7 @@ function celsToF() {
 }
 
 function greeting() {
-    let name = document.querySelector('.name').value;
+    const name = document.querySelector('.name').value;
     console.log('Здарова, ' + name);
     document.write('Здарова, ' + name)
 }
